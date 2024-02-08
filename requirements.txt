@@ -1,0 +1,4 @@
+express
+mongoose
+express-async-handler
+nodemon
